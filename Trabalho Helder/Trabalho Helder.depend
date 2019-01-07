@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453942169 source:d:\faculdade\estrutura de dados ii\exercicios aula\trabalho helder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

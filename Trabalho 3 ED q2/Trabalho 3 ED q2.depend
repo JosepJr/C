@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1466893149 source:d:\faculdade\estrutura de dados ii\exercicios aula\trabalho 3 ed q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

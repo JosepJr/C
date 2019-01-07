@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1467324389 source:d:\faculdade\estrutura de dados ii\exercicios aula\dial's algoritmo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+

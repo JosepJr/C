@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460518795 source:d:\faculdade\estrutura de dados ii\exercicios aula\exemplo doido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
